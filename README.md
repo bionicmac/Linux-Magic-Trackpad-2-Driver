@@ -4,8 +4,9 @@ This repository contains the linux hid-magicmouse driver with Magic Trackpad 2 a
 
 This driver is based off of the work of @rohitpid, @robotrovsky, @svartalf and probably others.
 
-This fork is for my own convenience and testing. You should probably use the @rohitpid repo here -> 
-https://github.com/rohitpid/Linux-Magic-Trackpad-2-Driver. 
+This fork is for my own convenience and testing.
+
+You should probably use the @rohitpid repo here: -> https://github.com/rohitpid/Linux-Magic-Trackpad-2-Driver
 
 The driver is tested in combination with the xf86-libinput and xf86-mtrack driver.
 
